@@ -1,0 +1,15 @@
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\bin\Debug\net6.0\FootballLeague.exe
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\bin\Debug\net6.0\FootballLeague.deps.json
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\bin\Debug\net6.0\FootballLeague.runtimeconfig.json
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\bin\Debug\net6.0\FootballLeague.dll
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\bin\Debug\net6.0\FootballLeague.pdb
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.csproj.AssemblyReference.cache
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.AssemblyInfoInputs.cache
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.AssemblyInfo.cs
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.csproj.CoreCompileInputs.cache
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.dll
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\refint\FootballLeague.dll
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.pdb
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\FootballLeague.genruntimeconfig.cache
+C:\Users\hmnaz\source\repos\FootballLeague\FootballLeague\obj\Debug\net6.0\ref\FootballLeague.dll
